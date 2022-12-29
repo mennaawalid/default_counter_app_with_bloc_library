@@ -1,6 +1,6 @@
 # default_counter_app_bloc_library
 
-A new Flutter project.
+A practice project where i made the same default app counter app using the bloc library as a state management and architectural pattern, and the package connectivity plus, to increment the counter when using wi-fi, decrement it when using mobile data and nothing when it's disconnectd.
 
 ## Getting Started
 
